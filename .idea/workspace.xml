@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cb5683cc-694b-4a64-95e4-fef514a425a7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/document.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/home/data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/home/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/page_1/data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/page_1/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/home/u2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/home/u22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/home/u22_mouseOver.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/home/u23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/home/u24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/home/u25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/home/u26.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/home/u27.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/home/u28.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/home/u29.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/home/u30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/home/u31_mouseOver.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/home/u40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/home/u41.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/home/u42.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/home/u43.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/home/u44.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/home/u45.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/home/u46.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/home/u47.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/home/u48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/home/u58.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/home/u59.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/home/u60.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/home/u61.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/home/u62.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/home/u63.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/home/u64.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/home/u65.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/home/u66.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/is_analysis_pages.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/page_1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/debug/styles/debug.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/debug/styles/images/reset.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/debug/styles/images/reset_hover.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/debug/styles/images/variables_hover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/debug/styles/images/variables_hover.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/debug/styles/images/variables_off.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/debug/styles/images/variables_off.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/debug/styles/images/variables_on.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/debug/styles/images/variables_on.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/page_notes/styles/images/back.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/page_notes/styles/images/back.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/page_notes/styles/images/back_hover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/page_notes/styles/images/back_hover.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/page_notes/styles/images/footnotes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/page_notes/styles/images/footnotes.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/page_notes/styles/images/footnotes_hover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/page_notes/styles/images/footnotes_hover.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/page_notes/styles/images/footnotes_on.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/page_notes/styles/images/footnotes_on.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/page_notes/styles/images/forward.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/page_notes/styles/images/forward.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/page_notes/styles/images/forward_hover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/page_notes/styles/images/forward_hover.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/page_notes/styles/images/notes_hover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/page_notes/styles/images/notes_hover.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/page_notes/styles/images/notes_off.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/page_notes/styles/images/notes_off.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/page_notes/styles/images/notes_on.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/page_notes/styles/images/notes_on.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/page_notes/styles/page_notes.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/recordplay/recordplay.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/recordplay/styles/recordplay.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/sitemap/styles/images/079_page_16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/sitemap/styles/images/086_case_16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/sitemap/styles/images/225_responsive_16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/sitemap/styles/images/228_togglenotes_16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/sitemap/styles/images/229_variables_16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/sitemap/styles/images/231_event_16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/sitemap/styles/images/232_search_16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/sitemap/styles/images/233_hyperlink_16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/sitemap/styles/images/235_folderclosed_16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/sitemap/styles/images/236_folderopen_16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/sitemap/styles/images/adaptivecheck.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/sitemap/styles/images/flow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/sitemap/styles/images/flow.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/sitemap/styles/images/folder_closed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/sitemap/styles/images/folder_closed.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/sitemap/styles/images/folder_open.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/sitemap/styles/images/folder_open.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/sitemap/styles/images/hotspots.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/sitemap/styles/images/hotspots.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/sitemap/styles/images/hotspots_hover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/sitemap/styles/images/hotspots_hover.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/sitemap/styles/images/hotspots_on.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/sitemap/styles/images/hotspots_on.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/sitemap/styles/images/images.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/sitemap/styles/images/minus.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/sitemap/styles/images/note.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/sitemap/styles/images/note.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/sitemap/styles/images/page.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/sitemap/styles/images/page.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/sitemap/styles/images/plus.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/sitemap/styles/images/share.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/sitemap/styles/images/share.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/sitemap/styles/images/share_hover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/sitemap/styles/images/share_hover.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/sitemap/styles/images/share_on.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/sitemap/styles/images/share_on.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/sitemap/styles/images/sitemap_hover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/sitemap/styles/images/sitemap_hover.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/sitemap/styles/images/sitemap_off.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/sitemap/styles/images/sitemap_off.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/sitemap/styles/images/sitemap_on.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/sitemap/styles/images/sitemap_on.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/sitemap/styles/images/views.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/sitemap/styles/images/views.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/sitemap/styles/images/views_hover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/sitemap/styles/images/views_hover.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/sitemap/styles/images/views_on.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/sitemap/styles/images/views_on.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/sitemap/styles/sitemap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Other.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/chrome/allow-access.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/chrome/axure-chrome-extension.crx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/chrome/axure_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/chrome/chrome.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/chrome/details.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/chrome/extensions.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/chrome/safari.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/chrome/safari_advanced.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/chrome/safari_restrictions.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/chrome/splitter.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/chrome/splitter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/css/axure_rp_page.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/css/default.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/css/images/images.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/css/images/newwindow.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/css/images/note.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/css/images/ui-bg_flat_0_aaaaaa_40x100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/css/images/ui-bg_glass_55_fbf9ee_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/css/images/ui-bg_glass_65_ffffff_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/css/images/ui-bg_glass_75_dadada_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/css/images/ui-bg_glass_75_e6e6e6_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/css/images/ui-bg_glass_75_ffffff_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/css/images/ui-bg_highlight-soft_75_cccccc_1x100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/css/images/ui-bg_inset-soft_95_fef1ec_1x100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/css/images/ui-icons_222222_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/css/images/ui-icons_2e83ff_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/css/images/ui-icons_454545_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/css/images/ui-icons_888888_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/css/images/ui-icons_cd0a0a_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/css/jquery-ui-themes.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/expand.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/259_close_12rollover1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/259_close_12rollover2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/260_collapse_12rollover1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/260_collapse_12rollover2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/261_expand_12rollover1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/261_expand_12rollover2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/close.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/close_hover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/close_hover.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/divider.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/divider.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/expand.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/expand.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/expand_hover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/expand_hover.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/images.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/transparent.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/reload.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/scripts/jquery-1.7.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/scripts/jquery-ui-1.8.10.custom.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/scripts/messagecenter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/scripts/player/axplayer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/scripts/player/splitter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/scripts/prototypePost.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/scripts/prototypePre.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/scripts/startPost.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/scripts/startPre.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start_c_1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start_g_0.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="43" lean-forward="true" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/start_c_1.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/start_g_0.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="6" lean-forward="true" selection-start-column="6" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/page_1.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/is_analysis_pages.iml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/home.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="654" />
+    <option name="y" value="-2" />
+    <option name="width" value="768" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="is_analysis_pages" type="b2602c69:ProjectViewProjectNode" />
+              <item name="is_analysis_pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cb5683cc-694b-4a64-95e4-fef514a425a7" name="Default Changelist" comment="" />
+      <created>1556008650588</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556008650588</updated>
+      <workItem from="1556008654152" duration="1813000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1813000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="PlantUML" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="43" lean-forward="true" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/is_analysis_pages.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page_1.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/start_g_0.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" lean-forward="true" selection-start-column="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/start_c_1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
